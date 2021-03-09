@@ -6,6 +6,7 @@
 
 # to use CircleCI orbs need to use version >= 2.1
 version: 2.1
+
 orbs:
   # use Cypress orb from CircleCI registry
   cypress: cypress-io/cypress@1.26.0
