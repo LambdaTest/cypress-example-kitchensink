@@ -7,14 +7,17 @@
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is an AI-native, multi-agent quality engineering platform that enables teams to plan, author, execute, analyze, and optimize tests at scale across browsers, devices, and frameworks.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-Run your Cypress test suite on TestMu AI (Formerly LambdaTest) to test across 3000+ real browser and OS combinations with ease.
+With TestMu AI (Formerly LambdaTest), you can run Cypress Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
+### Prerequisites
 
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Table of Contents 🗏
 
@@ -264,43 +267,24 @@ Visit the following links to learn more about TestMu AI (Formerly LambdaTest)'s 
 
 * TestMu AI (Formerly LambdaTest) Documentation
 * TestMu AI (Formerly LambdaTest) Blog
-* TestMu AI (Formerly LambdaTest) Learning Hub    
+* TestMu AI (Formerly LambdaTest) Learning Hub
 
-## TestMu AI (Formerly LambdaTest) Community :busts_in_silhouette:
+## TestMu AI (Formerly LambdaTest) Community
 
-The TestMu AI (Formerly LambdaTest) Community allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
+Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## What's New At TestMu AI (Formerly LambdaTest) ❓
+## TestMu AI (Formerly LambdaTest) Certifications
 
-To stay updated with the latest features and product add-ons, visit Changelog 
-      
-## About TestMu AI (Formerly LambdaTest)
+Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-TestMu AI (Formerly LambdaTest) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using TestMu AI (Formerly LambdaTest), businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on TestMu AI (Formerly LambdaTest) for their testing needs.    
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
-### Features
+Learn modern testing through tutorials, guides, videos, and weekly updates:
 
-* Run Selenium, Cypress, Puppeteer, Playwright, and Appium automation tests across 3000+ real desktop and mobile environments.
-* Real-time cross browser testing on 3000+ environments.
-* Test on Real device cloud
-* Blazing fast test automation with HyperExecute
-* Accelerate testing, shorten job times and get faster feedback on code changes with Test At Scale.
-* Smart Visual Regression Testing on cloud
-* 120+ third-party integrations with your favorite tool for CI/CD, Project Management, Codeless Automation, and more.
-* Automated Screenshot testing across multiple browsers in a single click.
-* Local testing of web and mobile apps.
-* Online Accessibility Testing across 3000+ desktop and mobile browsers, browser versions, and operating systems.
-* Geolocation testing of web and mobile apps across 53+ countries.
-* TestMu AI (Formerly LambdaTest) Browser - for responsive testing across 50+ pre-installed mobile, tablets, desktop, and laptop viewports
-
-    
-
-      
-## We are here to help you :headphones:
-
-* Got a query? we are available 24x7 to help. [Contact Us](mailto:support@testmuai.com)
-* For more info, visit - TestMu AI (Formerly LambdaTest)
-
+* [TestMu AI Blog](https://www.testmuai.com/blog/)
+* [TestMu AI Learning Hub](https://www.testmuai.com/learning-hub/)
+* [TestMu AI on YouTube](https://www.youtube.com/@TestMuAI)
+* [TestMu AI Newsletter](https://www.testmuai.com/newsletter/)
 
 ## LambdaTest is Now TestMu AI
 
