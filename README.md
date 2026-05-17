@@ -7,11 +7,11 @@
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is an AI-native, multi-agent quality engineering platform that enables teams to plan, author, execute, analyze, and optimize tests at scale across browsers, devices, and frameworks.
+TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is an AI-native, multi-agent quality engineering platform that enables teams to plan, author, execute, analyze, and optimize tests at scale across browsers, devices, and frameworks.
 
-Run your Cypress test suite on TestMu AI (Formerly LambdaTest) to test across 3000+ real browser and OS combinations with ease.
+Run your Cypress test suite on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) to test across 3000+ real browser and OS combinations with ease.
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 
@@ -37,47 +37,47 @@ Run your Cypress test suite on TestMu AI (Formerly LambdaTest) to test across 30
 
 ## Pre-requisites
 
-Before we get started, make sure to clone the TestMu AI (Formerly LambdaTest) Cypress Cloud Repo. You can run your first Cypress test on the TestMu AI (Formerly LambdaTest) platform in a few simple steps:
+Before we get started, make sure to clone the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Cypress Cloud Repo. You can run your first Cypress test on the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) platform in a few simple steps:
 
-- **Step 1:** Clone the TestMu AI (Formerly LambdaTest)-Cypress Cloud repo and navigate to the cloned directory.
+- **Step 1:** Clone the TestMu AI (Formerly TestMu AI (Formerly LambdaTest))-Cypress Cloud repo and navigate to the cloned directory.
 
   ```bash
   git clone https://github.com/LambdaTest/Cypress-Cloud
   cd Cypress-Cloud
   ```
 
-- **Step 2: Installing the TestMu AI (Formerly LambdaTest) CLI -**
-  You need to install the **TestMu AI (Formerly LambdaTest)-Cypress CLI** package with the help of npm, using the below command:
+- **Step 2: Installing the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) CLI -**
+  You need to install the **TestMu AI (Formerly TestMu AI (Formerly LambdaTest))-Cypress CLI** package with the help of npm, using the below command:
 
   ```bash
   npm install -g lambdatest-cypress-cli
   ```
 
 - **Step 3: Setup configurations on which you want to run your test -**
-  Once you have installed the TestMu AI (Formerly LambdaTest)-Cypress CLI, now you need to setup the configuration. You can do that using the below command:
+  Once you have installed the TestMu AI (Formerly TestMu AI (Formerly LambdaTest))-Cypress CLI, now you need to setup the configuration. You can do that using the below command:
 
   ```bash
   lambdatest-cypress init
   ```
-## Running Your First Cypress Test On TestMu AI (Formerly LambdaTest)
+## Running Your First Cypress Test On TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 
->**Test Scenario**: To demonstrate Cypress testing on TestMu AI (Formerly LambdaTest), we will use the Cypress Kitchen Sink Example.
+>**Test Scenario**: To demonstrate Cypress testing on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), we will use the Cypress Kitchen Sink Example.
 
-1.  Clone the TestMu AI (Formerly LambdaTest) Cypress Cloud GitHub repo and switch to the cloned directory.
+1.  Clone the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Cypress Cloud GitHub repo and switch to the cloned directory.
 
 ```bash
 git clone https://github.com/LambdaTest/Cypress-Cloud
 cd Cypress-Cloud
 ```
 
-2.  Setup the **TestMu AI (Formerly LambdaTest)-Cypress CLI** and configure the configuration file, as shown in the pre-requisites before. A file named `lambdatest-config.json` is generated in your project using the below command:
+2.  Setup the **TestMu AI (Formerly TestMu AI (Formerly LambdaTest))-Cypress CLI** and configure the configuration file, as shown in the pre-requisites before. A file named `lambdatest-config.json` is generated in your project using the below command:
 
 ```bash
 lambdatest-cypress init
 ```
 
-Here, we have used the below configuration as default and generated it in the `lambdatest-config.json` file. You need to set up the authentication by using TestMu AI (Formerly LambdaTest) credentials. You can check the Authentication documentation for more details about authentication.
+Here, we have used the below configuration as default and generated it in the `lambdatest-config.json` file. You need to set up the authentication by using TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) credentials. You can check the Authentication documentation for more details about authentication.
 
 ```json
 {
@@ -132,12 +132,12 @@ lambdatest-cypress run
 ## View Your Cypress Testing Result
 
 
-As soon as the tests starts executing, you can view them running. Visit your TestMu AI (Formerly LambdaTest) Automation Dashboard.
+As soon as the tests starts executing, you can view them running. Visit your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Automation Dashboard.
 
 
 <img height="400" src="https://user-images.githubusercontent.com/70570645/169592614-d41ad246-32c5-46e1-935c-6f0101f467e6.png">
 
-For each test, you can view the live video feed, screenshots for each test run, console logs, terminal logs and do much more using the **TestMu AI (Formerly LambdaTest) platform**.
+For each test, you can view the live video feed, screenshots for each test run, console logs, terminal logs and do much more using the **TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) platform**.
 
 If the test gets executed successfully, you will see a green tick on the Timeline view and a "Completed" message on the Automation logs view of your Automation dashboard. If not, then you will see a red cross and a "Failed" message respectively.
       
@@ -147,7 +147,7 @@ If the test gets executed successfully, you will see a green tick on the Timelin
 ## Running Your Cypress Tests Locally
 
 
-To run your tests locally on the TestMu AI (Formerly LambdaTest) platform, you need to setup TestMu AI (Formerly LambdaTest) tunnel, and execute commands using the CLI, or download UnderPass, our GUI based desktop app. Once you have the TestMu AI (Formerly LambdaTest) tunnel or Underpass set up and started, you can use the TestMu AI (Formerly LambdaTest) platform to run your Cypress tests locally.
+To run your tests locally on the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) platform, you need to setup TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) tunnel, and execute commands using the CLI, or download UnderPass, our GUI based desktop app. Once you have the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) tunnel or Underpass set up and started, you can use the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) platform to run your Cypress tests locally.
 
 Now you need to activate the tunnel capability in the lambdatest_config.json file under the section "connection_settings" as shown below:
 
@@ -158,7 +158,7 @@ Now you need to activate the tunnel capability in the lambdatest_config.json fil
   },
 ```
 
-You can provide the name of the **TestMu AI (Formerly LambdaTest) tunnel** as per your requirements.
+You can provide the name of the **TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) tunnel** as per your requirements.
 
 ## Authentication
 
@@ -179,8 +179,8 @@ The following args can be used while running tests using the run command.
 
 | Arg        | Shorthand | Accepted values            |
 | ---------- | --------- | -------------------------- |
-| --username | -u        | Your TestMu AI (Formerly LambdaTest) username   |
-| --key      | -k        | Your TestMu AI (Formerly LambdaTest) access key |
+| --username | -u        | Your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) username   |
+| --key      | -k        | Your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) access key |
 
 For example -
 
@@ -190,7 +190,7 @@ For example -
 
 ### Using lambdatest-config.json:
 
-The auth option will help you in specifying your username and access key. You can find your username and access key in the TestMu AI (Formerly LambdaTest) Automation Dashboard. Both, the auth credentials set in environment variables and the ones mentioned in the lambdatest-config.json file will get overridden.
+The auth option will help you in specifying your username and access key. You can find your username and access key in the TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Automation Dashboard. Both, the auth credentials set in environment variables and the ones mentioned in the lambdatest-config.json file will get overridden.
       
 <img height="400" src="https://user-images.githubusercontent.com/70570645/169593640-9672bc33-49c1-4abe-8887-645a33defab7.png">
 
@@ -199,8 +199,8 @@ The options supported in the auth are as follows:
 
 | Arg        | Accepted values            |
 | ---------- | -------------------------- |
-| username   | Your TestMu AI (Formerly LambdaTest) username   |
-| access_key | Your TestMu AI (Formerly LambdaTest) access key |
+| username   | Your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) username   |
+| access_key | Your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) access key |
 
 For example -
 
@@ -217,8 +217,8 @@ While utilizing the CLI params, you can set up the following environment variabl
 
 | Env variable  | Accepted values            |
 | ------------- | -------------------------- |
-| LT_USERNAME   | Your TestMu AI (Formerly LambdaTest) username   |
-| LT_ACCESS_KEY | Your TestMu AI (Formerly LambdaTest) access key |
+| LT_USERNAME   | Your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) username   |
+| LT_ACCESS_KEY | Your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) access key |
 
 Or you can also set environment variables using following commands:
 
@@ -244,8 +244,8 @@ Check out our latest tutorials on Cypress automation testing 👇
 * Cypress Vs Selenium: Which is Better in 2022?
 * Introduction to Cypress Test Automation Framework
 * Scalable and Reliable Cross Browser Testing with Cypress
-* Now Run Your Cypress Tests on TestMu AI (Formerly LambdaTest)
-* How to Perform Cypress Testing at Scale with TestMu AI (Formerly LambdaTest)
+* Now Run Your Cypress Tests on TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+* How to Perform Cypress Testing at Scale with TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 * Complete Guide to Cypress Visual Regression Testing
 * How to Fill and Submit Forms in Cypress
 * How to Find HTML Elements Using Cypress Locators
@@ -260,23 +260,23 @@ Subscribe To Our [TestMu AI (Formerly LambdaTest) YouTube Channel 🔔](https://
 ## Documentation & Resources :books:
 
       
-Visit the following links to learn more about TestMu AI (Formerly LambdaTest)'s features, setup and tutorials around test automation, mobile app testing, responsive testing, and manual testing.
+Visit the following links to learn more about TestMu AI (Formerly TestMu AI (Formerly LambdaTest))'s features, setup and tutorials around test automation, mobile app testing, responsive testing, and manual testing.
 
-* TestMu AI (Formerly LambdaTest) Documentation
-* TestMu AI (Formerly LambdaTest) Blog
-* TestMu AI (Formerly LambdaTest) Learning Hub    
+* TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Documentation
+* TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Blog
+* TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Learning Hub    
 
-## TestMu AI (Formerly LambdaTest) Community :busts_in_silhouette:
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community :busts_in_silhouette:
 
-The TestMu AI (Formerly LambdaTest) Community allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
+The TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
 
-## What's New At TestMu AI (Formerly LambdaTest) ❓
+## What's New At TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) ❓
 
 To stay updated with the latest features and product add-ons, visit Changelog 
       
-## About TestMu AI (Formerly LambdaTest)
+## About TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
-TestMu AI (Formerly LambdaTest) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using TestMu AI (Formerly LambdaTest), businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on TestMu AI (Formerly LambdaTest) for their testing needs.    
+TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) for their testing needs.    
 
 ### Features
 
@@ -291,7 +291,7 @@ TestMu AI (Formerly LambdaTest) is a leading test execution and orchestration pl
 * Local testing of web and mobile apps.
 * Online Accessibility Testing across 3000+ desktop and mobile browsers, browser versions, and operating systems.
 * Geolocation testing of web and mobile apps across 53+ countries.
-* LT Browser - for responsive testing across 50+ pre-installed mobile, tablets, desktop, and laptop viewports
+* TestMu AI (Formerly LambdaTest) Browser - for responsive testing across 50+ pre-installed mobile, tablets, desktop, and laptop viewports
 
     
 
@@ -299,7 +299,7 @@ TestMu AI (Formerly LambdaTest) is a leading test execution and orchestration pl
 ## We are here to help you :headphones:
 
 * Got a query? we are available 24x7 to help. [Contact Us](mailto:support@testmuai.com)
-* For more info, visit - TestMu AI (Formerly LambdaTest)
+* For more info, visit - TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 
 ## LambdaTest is Now TestMu AI
